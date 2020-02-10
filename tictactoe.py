@@ -139,8 +139,6 @@ def my_is_win_or_draw(my_x, my_o):
 	return myresult	
 
 
-##### MAIN ########
-
 
 
 def play_again():
