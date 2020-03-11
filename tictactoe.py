@@ -2,7 +2,7 @@
 # ###########
 # This is the simple game of tic tac toe coded in python.
 # The first player select the symbol (X or O) that is going to use.
-# After end of game by win or draw, player select if he/she wants to play again.
+# After end of game by win or draw, player select if he/she wants to play again!
 
 
 MY_X_POINTS = []
