@@ -1,0 +1,135 @@
+[
+    {
+        "date": "2020-03-22",
+        "country": "Italy",
+        "total_cases": 53578,
+        "total_deaths": 4825,
+        "total_recovered": 6072
+    },
+    {
+        "date": "2020-03-23",
+        "country": "Italy",
+        "total_cases": 63928,
+        "total_deaths": 6078,
+        "total_recovered": 7432
+    },
+    {
+        "date": "2020-03-24",
+        "country": "Italy",
+        "total_cases": 63927,
+        "total_deaths": 6077,
+        "total_recovered": 7432
+    },
+    {
+        "date": "2020-03-25",
+        "country": "Italy",
+        "total_cases": 69176,
+        "total_deaths": 6820,
+        "total_recovered": 8326
+    },
+    {
+        "date": "2020-03-26",
+        "country": "Italy",
+        "total_cases": 80539,
+        "total_deaths": 8215,
+        "total_recovered": 10361
+    },
+    {
+        "date": "2020-03-27",
+        "country": "Italy",
+        "total_cases": 80589,
+        "total_deaths": 8215,
+        "total_recovered": 10361
+    },
+    {
+        "date": "2020-03-28",
+        "country": "Italy",
+        "total_cases": 86498,
+        "total_deaths": 9134,
+        "total_recovered": 10950
+    },
+    {
+        "date": "2020-03-29",
+        "country": "Italy",
+        "total_cases": 92472,
+        "total_deaths": 10023,
+        "total_recovered": 12384
+    },
+    {
+        "date": "2020-03-30",
+        "country": "Italy",
+        "total_cases": 97689,
+        "total_deaths": 10779,
+        "total_recovered": 13030
+    },
+    {
+        "date": "2020-03-31",
+        "country": "Italy",
+        "total_cases": 101739,
+        "total_deaths": 11591,
+        "total_recovered": 14620
+    },
+    {
+        "date": "2020-04-01",
+        "country": "Italy",
+        "total_cases": 105792,
+        "total_deaths": 12428,
+        "total_recovered": 15729
+    },
+    {
+        "date": "2020-04-02",
+        "country": "Italy",
+        "total_cases": 110574,
+        "total_deaths": 13155,
+        "total_recovered": 16847
+    },
+    {
+        "date": "2020-04-03",
+        "country": "Italy",
+        "total_cases": 115242,
+        "total_deaths": 13915,
+        "total_recovered": 18278
+    },
+    {
+        "date": "2020-04-04",
+        "country": "Italy",
+        "total_cases": 119827,
+        "total_deaths": 14681,
+        "total_recovered": 19758
+    },
+    {
+        "date": "2020-04-05",
+        "country": "Italy",
+        "total_cases": 124632,
+        "total_deaths": 15362,
+        "total_recovered": 20996
+    },
+    {
+        "date": "2020-04-06",
+        "country": "Italy",
+        "total_cases": 128948,
+        "total_deaths": 15887,
+        "total_recovered": 21815
+    },
+    {
+        "date": "2020-04-07",
+        "country": "Italy",
+        "total_cases": 132547,
+        "total_deaths": 16523,
+        "total_recovered": 22837
+    },
+    {
+        "date": "2020-04-08",
+        "country": "Italy",
+        "total_cases": 135586,
+        "total_deaths": 17127,
+        "total_recovered": 24392
+    },
+    {
+        "date": "2020-04-09",
+        "country": "Italy",
+        "total_cases": 139422,
+        "total_deaths": 17669,
+        "total_recovered": 26491
+    }
+]

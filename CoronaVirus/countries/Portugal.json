@@ -1,0 +1,135 @@
+[
+    {
+        "date": "2020-03-22",
+        "country": "Portugal",
+        "total_cases": 1600,
+        "total_deaths": 12,
+        "total_recovered": 5
+    },
+    {
+        "date": "2020-03-23",
+        "country": "Portugal",
+        "total_cases": 2060,
+        "total_deaths": 23,
+        "total_recovered": 14
+    },
+    {
+        "date": "2020-03-24",
+        "country": "Portugal",
+        "total_cases": 2362,
+        "total_deaths": 30,
+        "total_recovered": 22
+    },
+    {
+        "date": "2020-03-25",
+        "country": "Portugal",
+        "total_cases": 2995,
+        "total_deaths": 43,
+        "total_recovered": 22
+    },
+    {
+        "date": "2020-03-26",
+        "country": "Portugal",
+        "total_cases": 2995,
+        "total_deaths": 43,
+        "total_recovered": 22
+    },
+    {
+        "date": "2020-03-27",
+        "country": "Portugal",
+        "total_cases": 3544,
+        "total_deaths": 60,
+        "total_recovered": 43
+    },
+    {
+        "date": "2020-03-28",
+        "country": "Portugal",
+        "total_cases": 5170,
+        "total_deaths": 100,
+        "total_recovered": 43
+    },
+    {
+        "date": "2020-03-29",
+        "country": "Portugal",
+        "total_cases": 5170,
+        "total_deaths": 100,
+        "total_recovered": 43
+    },
+    {
+        "date": "2020-03-30",
+        "country": "Portugal",
+        "total_cases": 6408,
+        "total_deaths": 140,
+        "total_recovered": 43
+    },
+    {
+        "date": "2020-03-31",
+        "country": "Portugal",
+        "total_cases": 7443,
+        "total_deaths": 140,
+        "total_recovered": 43
+    },
+    {
+        "date": "2020-04-01",
+        "country": "Portugal",
+        "total_cases": 7443,
+        "total_deaths": 160,
+        "total_recovered": 43
+    },
+    {
+        "date": "2020-04-02",
+        "country": "Portugal",
+        "total_cases": 8251,
+        "total_deaths": 187,
+        "total_recovered": 43
+    },
+    {
+        "date": "2020-04-03",
+        "country": "Portugal",
+        "total_cases": 9034,
+        "total_deaths": 209,
+        "total_recovered": 68
+    },
+    {
+        "date": "2020-04-04",
+        "country": "Portugal",
+        "total_cases": 9886,
+        "total_deaths": 246,
+        "total_recovered": 68
+    },
+    {
+        "date": "2020-04-05",
+        "country": "Portugal",
+        "total_cases": 10524,
+        "total_deaths": 266,
+        "total_recovered": 75
+    },
+    {
+        "date": "2020-04-06",
+        "country": "Portugal",
+        "total_cases": 11730,
+        "total_deaths": 311,
+        "total_recovered": 140
+    },
+    {
+        "date": "2020-04-07",
+        "country": "Portugal",
+        "total_cases": 12442,
+        "total_deaths": 345,
+        "total_recovered": 184
+    },
+    {
+        "date": "2020-04-08",
+        "country": "Portugal",
+        "total_cases": 13141,
+        "total_deaths": 380,
+        "total_recovered": 196
+    },
+    {
+        "date": "2020-04-09",
+        "country": "Portugal",
+        "total_cases": 13956,
+        "total_deaths": 409,
+        "total_recovered": 205
+    }
+]

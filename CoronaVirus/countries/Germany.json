@@ -1,0 +1,135 @@
+[
+    {
+        "date": "2020-03-22",
+        "country": "Germany",
+        "total_cases": 24852,
+        "total_deaths": 94,
+        "total_recovered": 266
+    },
+    {
+        "date": "2020-03-23",
+        "country": "Germany",
+        "total_cases": 29056,
+        "total_deaths": 118,
+        "total_recovered": 422
+    },
+    {
+        "date": "2020-03-24",
+        "country": "Germany",
+        "total_cases": 32986,
+        "total_deaths": 157,
+        "total_recovered": 3243
+    },
+    {
+        "date": "2020-03-25",
+        "country": "Germany",
+        "total_cases": 37098,
+        "total_deaths": 206,
+        "total_recovered": 3547
+    },
+    {
+        "date": "2020-03-26",
+        "country": "Germany",
+        "total_cases": 43646,
+        "total_deaths": 262,
+        "total_recovered": 5673
+    },
+    {
+        "date": "2020-03-27",
+        "country": "Germany",
+        "total_cases": 50871,
+        "total_deaths": 342,
+        "total_recovered": 6658
+    },
+    {
+        "date": "2020-03-28",
+        "country": "Germany",
+        "total_cases": 57695,
+        "total_deaths": 430,
+        "total_recovered": 8481
+    },
+    {
+        "date": "2020-03-29",
+        "country": "Germany",
+        "total_cases": 62095,
+        "total_deaths": 533,
+        "total_recovered": 9211
+    },
+    {
+        "date": "2020-03-30",
+        "country": "Germany",
+        "total_cases": 66718,
+        "total_deaths": 645,
+        "total_recovered": 13500
+    },
+    {
+        "date": "2020-03-31",
+        "country": "Germany",
+        "total_cases": 71690,
+        "total_deaths": 774,
+        "total_recovered": 16100
+    },
+    {
+        "date": "2020-04-01",
+        "country": "Germany",
+        "total_cases": 77921,
+        "total_deaths": 925,
+        "total_recovered": 18700
+    },
+    {
+        "date": "2020-04-02",
+        "country": "Germany",
+        "total_cases": 84788,
+        "total_deaths": 1107,
+        "total_recovered": 22440
+    },
+    {
+        "date": "2020-04-03",
+        "country": "Germany",
+        "total_cases": 90964,
+        "total_deaths": 1234,
+        "total_recovered": 24575
+    },
+    {
+        "date": "2020-04-04",
+        "country": "Germany",
+        "total_cases": 95648,
+        "total_deaths": 1428,
+        "total_recovered": 26400
+    },
+    {
+        "date": "2020-04-05",
+        "country": "Germany",
+        "total_cases": 100024,
+        "total_deaths": 1576,
+        "total_recovered": 28700
+    },
+    {
+        "date": "2020-04-06",
+        "country": "Germany",
+        "total_cases": 103351,
+        "total_deaths": 1806,
+        "total_recovered": 28700
+    },
+    {
+        "date": "2020-04-07",
+        "country": "Germany",
+        "total_cases": 107591,
+        "total_deaths": 2012,
+        "total_recovered": 36081
+    },
+    {
+        "date": "2020-04-08",
+        "country": "Germany",
+        "total_cases": 113067,
+        "total_deaths": 2256,
+        "total_recovered": 46300
+    },
+    {
+        "date": "2020-04-09",
+        "country": "Germany",
+        "total_cases": 118181,
+        "total_deaths": 2607,
+        "total_recovered": 52407
+    }
+]

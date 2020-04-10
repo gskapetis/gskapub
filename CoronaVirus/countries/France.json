@@ -1,0 +1,135 @@
+[
+    {
+        "date": "2020-03-22",
+        "country": "France",
+        "total_cases": 14459,
+        "total_deaths": 562,
+        "total_recovered": 1587
+    },
+    {
+        "date": "2020-03-23",
+        "country": "France",
+        "total_cases": 16689,
+        "total_deaths": 860,
+        "total_recovered": 2200
+    },
+    {
+        "date": "2020-03-24",
+        "country": "France",
+        "total_cases": 19856,
+        "total_deaths": 860,
+        "total_recovered": 2200
+    },
+    {
+        "date": "2020-03-25",
+        "country": "France",
+        "total_cases": 22304,
+        "total_deaths": 1100,
+        "total_recovered": 3281
+    },
+    {
+        "date": "2020-03-26",
+        "country": "France",
+        "total_cases": 25233,
+        "total_deaths": 1331,
+        "total_recovered": 3900
+    },
+    {
+        "date": "2020-03-27",
+        "country": "France",
+        "total_cases": 29155,
+        "total_deaths": 1696,
+        "total_recovered": 4948
+    },
+    {
+        "date": "2020-03-28",
+        "country": "France",
+        "total_cases": 32964,
+        "total_deaths": 1995,
+        "total_recovered": 5700
+    },
+    {
+        "date": "2020-03-29",
+        "country": "France",
+        "total_cases": 37575,
+        "total_deaths": 2606,
+        "total_recovered": 7202
+    },
+    {
+        "date": "2020-03-30",
+        "country": "France",
+        "total_cases": 40174,
+        "total_deaths": 3024,
+        "total_recovered": 7927
+    },
+    {
+        "date": "2020-03-31",
+        "country": "France",
+        "total_cases": 52128,
+        "total_deaths": 3523,
+        "total_recovered": 7927
+    },
+    {
+        "date": "2020-04-01",
+        "country": "France",
+        "total_cases": 56989,
+        "total_deaths": 4032,
+        "total_recovered": 10934
+    },
+    {
+        "date": "2020-04-02",
+        "country": "France",
+        "total_cases": 59105,
+        "total_deaths": 4503,
+        "total_recovered": 12428
+    },
+    {
+        "date": "2020-04-03",
+        "country": "France",
+        "total_cases": 59105,
+        "total_deaths": 6507,
+        "total_recovered": 14008
+    },
+    {
+        "date": "2020-04-04",
+        "country": "France",
+        "total_cases": 82165,
+        "total_deaths": 7560,
+        "total_recovered": 14008
+    },
+    {
+        "date": "2020-04-05",
+        "country": "France",
+        "total_cases": 89953,
+        "total_deaths": 7560,
+        "total_recovered": 15438
+    },
+    {
+        "date": "2020-04-06",
+        "country": "France",
+        "total_cases": 92839,
+        "total_deaths": 8078,
+        "total_recovered": 16183
+    },
+    {
+        "date": "2020-04-07",
+        "country": "France",
+        "total_cases": 98010,
+        "total_deaths": 10328,
+        "total_recovered": 17250
+    },
+    {
+        "date": "2020-04-08",
+        "country": "France",
+        "total_cases": 109069,
+        "total_deaths": 10869,
+        "total_recovered": 21254
+    },
+    {
+        "date": "2020-04-09",
+        "country": "France",
+        "total_cases": 117749,
+        "total_deaths": 12210,
+        "total_recovered": 23206
+    }
+]

@@ -1,0 +1,135 @@
+[
+    {
+        "date": "2020-03-22",
+        "country": "Sweden",
+        "total_cases": 1906,
+        "total_deaths": 21,
+        "total_recovered": 16
+    },
+    {
+        "date": "2020-03-23",
+        "country": "Sweden",
+        "total_cases": 2038,
+        "total_deaths": 25,
+        "total_recovered": 16
+    },
+    {
+        "date": "2020-03-24",
+        "country": "Sweden",
+        "total_cases": 2272,
+        "total_deaths": 36,
+        "total_recovered": 16
+    },
+    {
+        "date": "2020-03-25",
+        "country": "Sweden",
+        "total_cases": 2526,
+        "total_deaths": 44,
+        "total_recovered": 16
+    },
+    {
+        "date": "2020-03-26",
+        "country": "Sweden",
+        "total_cases": 2840,
+        "total_deaths": 71,
+        "total_recovered": 16
+    },
+    {
+        "date": "2020-03-27",
+        "country": "Sweden",
+        "total_cases": 3069,
+        "total_deaths": 92,
+        "total_recovered": 16
+    },
+    {
+        "date": "2020-03-28",
+        "country": "Sweden",
+        "total_cases": 3069,
+        "total_deaths": 105,
+        "total_recovered": 16
+    },
+    {
+        "date": "2020-03-29",
+        "country": "Sweden",
+        "total_cases": 3447,
+        "total_deaths": 105,
+        "total_recovered": 16
+    },
+    {
+        "date": "2020-03-30",
+        "country": "Sweden",
+        "total_cases": 3700,
+        "total_deaths": 110,
+        "total_recovered": 16
+    },
+    {
+        "date": "2020-03-31",
+        "country": "Sweden",
+        "total_cases": 4028,
+        "total_deaths": 146,
+        "total_recovered": 16
+    },
+    {
+        "date": "2020-04-01",
+        "country": "Sweden",
+        "total_cases": 4947,
+        "total_deaths": 239,
+        "total_recovered": 16
+    },
+    {
+        "date": "2020-04-02",
+        "country": "Sweden",
+        "total_cases": 5466,
+        "total_deaths": 282,
+        "total_recovered": 103
+    },
+    {
+        "date": "2020-04-03",
+        "country": "Sweden",
+        "total_cases": 6078,
+        "total_deaths": 333,
+        "total_recovered": 103
+    },
+    {
+        "date": "2020-04-04",
+        "country": "Sweden",
+        "total_cases": 6443,
+        "total_deaths": 373,
+        "total_recovered": 205
+    },
+    {
+        "date": "2020-04-05",
+        "country": "Sweden",
+        "total_cases": 6830,
+        "total_deaths": 401,
+        "total_recovered": 205
+    },
+    {
+        "date": "2020-04-06",
+        "country": "Sweden",
+        "total_cases": 6830,
+        "total_deaths": 401,
+        "total_recovered": 205
+    },
+    {
+        "date": "2020-04-07",
+        "country": "Sweden",
+        "total_cases": 7206,
+        "total_deaths": 477,
+        "total_recovered": 205
+    },
+    {
+        "date": "2020-04-08",
+        "country": "Sweden",
+        "total_cases": 7693,
+        "total_deaths": 591,
+        "total_recovered": 205
+    },
+    {
+        "date": "2020-04-09",
+        "country": "Sweden",
+        "total_cases": 8419,
+        "total_deaths": 687,
+        "total_recovered": 205
+    }
+]
